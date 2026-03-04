@@ -1,7 +1,6 @@
 ## ✦ Olá, sou a Penélope Vieira!
-* 📍 Atualmente tenho interesse em atuar como front-end e estou estudando javascript!
 
-##
+* 📍 Atualmente tenho interesse em atuar como front-end e estou estudando javascript!
 
 <div><br>
   <img align='center' alt='html' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
